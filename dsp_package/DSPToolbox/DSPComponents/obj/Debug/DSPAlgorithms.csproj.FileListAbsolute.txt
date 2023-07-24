@@ -1,0 +1,12 @@
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\computer scince\الفرقه الثالثه\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\computer scince\الكلية\الفرقه الثالثه\الترم الاول\signal\lab\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
